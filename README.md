@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/aliasfalse/hubot-markdown.png?label=ready&title=Ready)](https://waffle.io/aliasfalse/hubot-markdown)
 #Hubot Markdown
 Configurable markdown for Hubot
 
