@@ -29,7 +29,7 @@
 module.exports = {
   doubleReturn : process.env.HUBOT_DOUBLE_RET || '\n\n',
   lineEnd : process.env.HUBOT_LINE_END || '\n',
-  blockEnd : process.env.HUBOT_BLOCK_END || '---',
+  blockEnd : process.env.HUBOT_BLOCK_END || '',
   linkBegin : process.env.HUBOT_MD_LINK_BEGIN || '[',
   linkMid : process.env.HUBOT_MD_LINK_MID || '](',
   linkEnd : process.env.HUBOT_MD_LINK_END || ')',
@@ -38,5 +38,5 @@ module.exports = {
   underline : process.env.HUBOT_MD_UNDERLINE || '__',
   strike : process.env.HUBOT_MD_STRIKE || '~~',
   codeLine : process.env.HUBOT_MD_CODE_SINGLE || '`',
-  codeMulti : process.env.HUBOT_MD_CODE_BLOCK || '```'
+  codeMulti : process.env.HUBOT_MD_CODE_BLOCK || ''
 }
