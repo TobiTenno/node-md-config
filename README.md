@@ -9,7 +9,7 @@ Configurable markdown for Hubot
 |API | Key | Description | Default |
 |----|---------------| -------------| --------------|
 |`lineEnd`|`HUBOT_LINE_END` | Configuragble line-return character | `\n`
-|`blockEnd`|`HUBOT_BLOCK_END` | Configuragble string for ending blocks | `---`
+|`blockEnd`|`HUBOT_BLOCK_END` | Configuragble string for ending blocks | empty
 |`doubleReturn`|`HUBOT_DOUBLE_RET` | Configurable string for double line returns | `\n\n`
 |`linkBegin`|`HUBOT_MD_LINK_BEGIN` | Configurable string for the beginning of links | `[`
 |`linkMid`|`HUBOT_MD_LINK_MID` | Configurable string for the middle of links | `](`
@@ -19,7 +19,7 @@ Configurable markdown for Hubot
 |`underline`|`HUBOT_MD_UNDERLINE` | Configurable string for denoting underlined text | `__`
 |`strike`|`HUBOT_MD_STRIKE` | Configurable string for denoting striked-through text | `~~`
 |`codeLine`|`HUBOT_MD_CODE_SINGLE` | Configurable string for denoting text to be wrappt in in-line code | `
-|`codeBlock`|`HUBOT_MD_CODE_BLOCK` | Configurable string for multi-line code blocks | ```
+|`codeBlock`|`HUBOT_MD_CODE_BLOCK` | Configurable string for multi-line code blocks | empty
 
 ##Usability
 This module contains no commands.
