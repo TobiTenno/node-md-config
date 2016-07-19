@@ -1,8 +1,8 @@
-[![Stories in Ready](https://badge.waffle.io/aliasfalse/hubot-markdown.png?label=ready&title=Ready)](https://waffle.io/aliasfalse/hubot-markdown)
-#Hubot Markdown
-Configurable markdown for Hubot
 
-[![Contact me on Discord](https://img.shields.io/badge/discord-Tobiah%238452-7289DA.svg)](https://discord.gg/0108TK6065s44uH5j)
+# Hubot Markdown
+Configurable markdown for node.js
+[![Stories in Ready](https://badge.waffle.io/aliasfalse/node-md-config?label=ready&title=Ready)](https://waffle.io/aliasfalse/node-md-config)
+[![Contact me on Discord](https://img.shields.io/badge/discord-Tobiah%238452-7289DA.svg)](https://discord.me/Tenno)
 [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](http://choosealicense.com/licenses/mit/)
 
 ##Configuration
